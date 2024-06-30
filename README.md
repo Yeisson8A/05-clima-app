@@ -1,1 +1,2 @@
-Aplicación que consumo API del clima, usando NodeJS
+# Notas
+Aplicación de consola que consume API del clima, usando NodeJS
